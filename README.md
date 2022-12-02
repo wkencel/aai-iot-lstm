@@ -4,7 +4,7 @@ IoT applications are often based on time series data collected by the sensors in
 
 ### Instructions: 
 
-1. Create a repository under your GitHub account from this template: https://github.com/amarbut/aai-iot-lstm. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository public or add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
+1. Create a repository under your GitHub account from this template: https://github.com/amarbut/aai-iot-lstm. Instructions can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template). Make your repository [private](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) and add your instructor’s Github account as a [collaborator](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository). 
 
 2. Following the instructions in the jupyter notebook from the above Github template, build an LSTM model to predict Global Active Power.
 
